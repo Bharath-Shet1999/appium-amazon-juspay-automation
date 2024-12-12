@@ -1,0 +1,22 @@
+{
+  "name": "appium-amazon-juspay-automation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@wdio/appium-service": "^9.4.1",
+    "@wdio/mocha-framework": "^9.2.8",
+    "appium": "^2.13.1",
+    "appium-chromedriver": "^6.1.10",
+    "appium-wait-plugin": "^3.0.2",
+    "chai": "^5.1.2",
+    "mocha": "^11.0.1",
+    "webdriverio": "^9.4.1"
+  }
+}
